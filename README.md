@@ -37,7 +37,7 @@ cd crispy-bash-utilities
 bash b.sh
 ```
 ---
-### support us
+### support us and follow on 
 
 ---
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
