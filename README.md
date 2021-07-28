@@ -21,6 +21,8 @@ gem install lolcat
 pkg install python2 -y
 
 pkg install gnupg
+
+pkg install figlet
 ```
 
 ### For Linux just do these -
