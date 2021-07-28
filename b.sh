@@ -1,5 +1,6 @@
 #
-echo 'update is releasing soon just wait for some '
+echo "update is releasing soon just wait for some "| lolcat 
+sleep 2
 clear
 chmod +x b.sh
 bash m.sh | lolcat
