@@ -2,7 +2,7 @@
 # samajik sandesh --be happy
 
 import os
-
+os.system("clear")
 print(" link of our youtube channel in repo")
 print ("\033[3;37m file should be in working directory/ or give folder path")
 print("if you are in Linux put the text file in single quote ex- 'k.txt' ")
