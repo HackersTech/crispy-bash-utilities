@@ -7,7 +7,7 @@ print(" link of our youtube channel in repo")
 print ("\033[3;37m file should be in working directory/ or give folder path")
 print("if you are in Linux put the text file in single quote ex- 'k.txt' ")
 l=input("Enter file name to seperate password from file ")
-        
+if l!="":
     k=open(l,'r')
     try:
                 h=' '
