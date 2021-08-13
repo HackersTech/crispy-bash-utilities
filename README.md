@@ -59,10 +59,8 @@ Links
 [Subscribe our YouTube channel link](https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A)
 
 
-### run
-Image--
-![image](https://github.com/HackersTech/crispy-bash-utilities/blob/main/k.png)
-
+### about us 
+Image ![](
 ---
 |share|our|repo |
 |----|----|----|
