@@ -12,7 +12,7 @@ echo -e "\e[5;36m 4) for transferring file through ssh to other machine press 4"
 echo " 5)for checking updates press 5"| lolcat
 echo -e "\e[5;31m 6) press 6 at your own risk !!!\e[0m "
 echo  " 7) for base 64 encoding hash decrypter press 7" | lolcat
-echo -e "\e[5;31m 6) 8) for separating email and password "
+echo -e "\e[5;35m 8) for separating email and password "
 read -p "enter value in (digits) -:" m
 		  
 if [ "$m" == 1 ]
