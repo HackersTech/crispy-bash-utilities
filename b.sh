@@ -1,5 +1,5 @@
-#
-echo "new tool is releasing soon just wait for some time"| lolcat 
+#powered by hackers tech
+echo "keep updating the tool"| lolcat 
 sleep 2
 clear
 chmod +x b.sh
