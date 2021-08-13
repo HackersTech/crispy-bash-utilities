@@ -3,8 +3,7 @@
 
 import os
 os.system("clear")
-os.system("cd ..")
-os.system("cd crispy-bash-utilities")
+
 
 print(" link of our youtube channel in repo")
 print ("\033[3;37m file should be in working directory/ or give folder path")
