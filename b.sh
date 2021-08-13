@@ -61,6 +61,8 @@ echo "if your password is in base 32"
 echo "$o" | base32 -d
 elif [ "$m" == 8 ]
 then
+cd ..
+cd crispy-bash-utilities
 python k.py
 else                        
 echo "error invalid input given exiting !!!"
