@@ -2,7 +2,7 @@ Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/PicsArt
 ---
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 ---
-# bash-Framework - > updated
+# bash-Framework > - updated
 
 Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
 
