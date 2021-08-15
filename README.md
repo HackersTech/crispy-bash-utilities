@@ -8,24 +8,24 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 ## Command to install tool
 
-### Termux --requirements
+
 ```
-pkg install python -y
+apt install python -y
 
-pkg install git -y
+apt install git -y
 
-pkg install ruby -y
+apt install ruby -y
  
 gem install lolcat 
 
-pkg install python2 -y
+apt install python2 -y
 
-pkg install gnupg
+apt install gnupg
 
-pkg install figlet
+apt install figlet
 ```
 
-### For Linux just do these -
+### main-
 
 **clone** **repo**
 
