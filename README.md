@@ -5,7 +5,7 @@ Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/PicsArt
 # bash-Framework 
 - >update - more option added
 
-Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator 
+Here you get bash utilities for  encrypter / decrypter ,/ hash detector and random password generator etc etc
 
 ## Command to install tool
 
