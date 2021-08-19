@@ -12,6 +12,7 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 
 ```
 apt update 
+
 apt install python -y
 
 apt install git 
