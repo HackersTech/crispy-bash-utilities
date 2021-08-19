@@ -10,23 +10,23 @@ Here you get bash utilities for  encrypter / decrypter ,/ hash detector and rand
 ## Command to install tool
 
 
-```
-apt update 
 
-apt install python -y
+- apt update 
 
-apt install git 
+- apt install python -y
 
-apt install ruby 
+- apt install git 
+
+- apt install ruby 
  
-gem install lolcat 
+- gem install lolcat 
 
-apt install python2 -y
+- apt install python2 -y
 
-apt install gnupg
+- apt install gnupg
 
-apt install figlet
-```
+- apt install figlet
+
 
 ### main-
 
