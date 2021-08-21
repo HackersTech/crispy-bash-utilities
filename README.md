@@ -1,4 +1,4 @@
-Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/PicsArt_06-20-01.39.06.jpg)
+
 ---
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 ---
