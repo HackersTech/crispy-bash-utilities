@@ -1,6 +1,6 @@
 
 ---
-![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
+![Ht](https://img.shields.io/badge/Made%20by-HackersTech-brightgreen)
 ---
 # bash-Framework 
 - >update - more option added
